@@ -1,0 +1,5 @@
+python input.py
+python draw_line.py
+g++ prim_with_edge.cpp
+./a.out
+python plot_mst.py
